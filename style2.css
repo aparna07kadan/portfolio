@@ -1,0 +1,20 @@
+h1{ 
+   text-decoration: underline; color:rgba(0, 81, 255, 0.822);
+}
+#row2{background-color:lightyellow;height:500px; display:flex; align-items: center;}
+
+   #child1{background-color:rgb(224, 255, 245); border: mediumblue;border-width: 0.3cm;border-style: solid;
+      height:50px;
+      width:33%; display: flex;
+      }
+      #textbox1{background-color: white; align-items: center;}
+   
+   #child2{background-color:rgb(224, 248, 255); border: mediumblue;border-width: 0.3cm;border-style: solid;
+   height:50px;
+   width:33%;
+   }
+
+   #child3{background-color:rgb(224, 255, 245); border: mediumblue;border-width: 0.3cm;border-style: solid;
+      height:50px;
+      width:33%;
+      }
